@@ -6,7 +6,8 @@ Je suis un développeur passionné par la technologie et l'innovation. Mon objec
 - 🤝 **Ouvert à la collaboration** : Si tu travailles sur des projets intéressants, n'hésite pas à me contacter. J'adore partager mes connaissances et apprendre des autres.
 
 ## 🔧 Technologies et Outils
-
+![Node Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -18,7 +19,6 @@ Je suis un développeur passionné par la technologie et l'innovation. Mon objec
 ![TonNom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neptune2k21&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neptune2k21&layout=compact&langs_count=6&theme=radical)
-![GitHub top language](https://img.shields.io/github/languages/top/:Neptune2k21/:repo)
 
 
 ## 🌐 Connecte-toi avec moi
