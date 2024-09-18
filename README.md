@@ -1,12 +1,8 @@
-Pour créer un README similaire à l'image que tu as fournie, voici un modèle basé sur le style que tu montres, avec des sections bien organisées et visuellement attractives :
-
----
-
-# 👨‍💻 [Ton Nom] Code
+# 👨‍💻 Cisse Mamadou
 
 Je suis un développeur passionné par la technologie et l'innovation. Mon objectif est de résoudre des problèmes complexes et de concevoir des solutions qui apportent une réelle valeur ajoutée. Je suis constamment à la recherche de nouvelles opportunités pour apprendre et m'améliorer.
 
-- 🌱 **Actuellement** : J'étudie en [ton domaine d'étude] et je perfectionne mes compétences en [technologies principales].
+- 🌱 **Actuellement** : Je suis étudiant en 2ème de BUT Informatique et je perfectionne mes compétences en développement d'application.
 - 🤝 **Ouvert à la collaboration** : Si tu travailles sur des projets intéressants, n'hésite pas à me contacter. J'adore partager mes connaissances et apprendre des autres.
 
 ## 🔧 Technologies et Outils
@@ -20,9 +16,9 @@ Je suis un développeur passionné par la technologie et l'innovation. Mon objec
 ## 📊 Statistiques GitHub
 
 ![TonNom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neptune2k21&show_icons=true&theme=radical)
-## 📊 Langages les plus utilisés
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neptune2k21&layout=compact&langs_count=6&theme=radical)
+![GitHub top language](https://img.shields.io/github/languages/top/:Neptune2k21/:repo)
 
 
 ## 🌐 Connecte-toi avec moi
