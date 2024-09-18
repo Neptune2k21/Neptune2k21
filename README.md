@@ -16,11 +16,7 @@ Je suis un développeur passionné par la technologie et l'innovation. Mon objec
 
 
 ## 📊 Statistiques GitHub
-
-![TonNom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neptune2k21&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neptune2k21&layout=compact&langs_count=6&theme=radical)
-
+![TonNom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neptune2k21&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neptune2k21&layout=compact&langs_count=6&theme=radical)
 
 ## 🌐 Connecte-toi avec moi
 
