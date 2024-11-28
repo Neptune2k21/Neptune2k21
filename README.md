@@ -44,7 +44,7 @@ Je suis un étudiant passionné d'informatique actuellement en 2ème année de B
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neptune2k21&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=neptune2k21&theme=flat&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ## 💡 Bref
