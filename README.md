@@ -1,38 +1,92 @@
-# 👨‍💻 Cisse Mamadou
+<h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
 
-Je suis un développeur passionné par la technologie et l'innovation. Mon objectif est de résoudre des problèmes complexes et de concevoir des solutions apportant une réelle valeur ajoutée. Toujours curieux, je cherche constamment à apprendre de nouvelles compétences et à collaborer sur des projets enrichissants.
-
-- 🌱 **Actuellement** : Étudiant en 2ème année de BUT Informatique, je perfectionne mes compétences en développement d'applications.
-- 🤝 **Ouvert à la collaboration** : Intéressé(e) par un projet stimulant ? Contactez-moi ! J'adore partager mes connaissances et apprendre des autres.
+<h3 align="center">Étudiant en 2ème année de BUT Informatique, je me spécialise dans le développement d'applications modernes et performantes.</h3>
 
 ---
 
-## 🔧 Technologies et Outils
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=neptune2k21&theme=flat&no-frame=true&row=1&column=6" alt="Trophées GitHub Neptune2k21" />
+  </a>
 </p>
 
 ---
 
-## 📊 Statistiques GitHub
+### À propos de moi
+
+- 🎓 **Étudiant** en 2ème année de BUT Informatique, je développe mes compétences en programmation et en conception d'applications.  
+- 🌟 Passionné par l'optimisation et l'innovation dans le domaine du développement logiciel.  
+- 👨‍💻 Découvrez mes projets sur mon portfolio : [**mon-portfolio-beryl.vercel.app**](https://mon-portfolio-beryl.vercel.app/)  
+- 📧 Vous pouvez me contacter par e-mail : **mamadoulcisse9236@gmail.com**
+
+---
+
+### 🌐 Connectez-vous avec moi :  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neptune2k21&show_icons=true&theme=radical" alt="Statistiques GitHub de Cisse Mamadou" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neptune2k21&layout=compact&langs_count=6&theme=radical" alt="Langages les plus utilisés" />
+  <!-- Ajoutez des liens vers vos réseaux sociaux si nécessaire -->
 </p>
 
 ---
 
-## 🌐 Connecte-toi avec moi
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-orange?style=for-the-badge)](https://mon-portfolio-beryl.vercel.app/)
+### 🛠️ Langages et outils maîtrisés :
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+</p>
 
 ---
 
-Merci d’avoir visité mon profil ! 😊
+### 📊 Statistiques GitHub :
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neptune2k21&show_icons=true&locale=fr&layout=compact" alt="Langages les plus utilisés par Neptune2k21" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neptune2k21&show_icons=true&locale=fr" alt="Statistiques GitHub Neptune2k21" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neptune2k21&theme=default" alt="Statistiques de contributions Neptune2k21" />
+</p>
