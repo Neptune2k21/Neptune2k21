@@ -1,15 +1,15 @@
 # 👋 Salut! Je suis Mamadou Lamine Cissé
 
-## 🚀 About Me
+## 🚀 Qui suis je ?
 Je suis un étudiant passionné d'informatique actuellement en 2ème année de BUT Informatique, dédié au développement d'applications modernes.
 
 - 🎓 Étudiant en informatique
 - 💻 Concentrer sur le développement Full-Stack
 - 🌱 Apprendre et explorer constamment de nouvelles technologies
 
-## 🛠️ Tech Stack
+## 🛠️ Compétences techniques
 
-### Programming Languages
+### Languages de Programmation
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
