@@ -31,7 +31,7 @@ Je suis un étudiant passionné d'informatique actuellement en 2ème année de B
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neptune2k21&layout=compact&theme=transparent&langs_count=7"/>
+  <img height="180em" src="![neptune2k21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=neptune2k21&theme=vue-dark&hide_border=true)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neptune2k21&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neptune2k21&theme=transparent"/>
 </div>
