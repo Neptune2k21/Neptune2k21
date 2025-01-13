@@ -1,57 +1,65 @@
-# 👋 Salut! Je suis Mamadou Lamine Cissé
-
-## 🚀 Qui suis je ?
-Je suis un étudiant passionné d'informatique actuellement en 2ème année de BUT Informatique, dédié au développement d'applications modernes.
-
-- 🎓 Étudiant en informatique
-- 💻 Concentrer sur le développement Full-Stack
-- 🌱 Apprendre et explorer constamment de nouvelles technologies
-
-## 🛠️ Compétences techniques
-
-### Languages de Programmation
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-## 📊 GitHub Stats
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=230&color=2E3440&text=Mamadou%20Lamine%20Cissé&fontColor=ECEFF4&fontSize=45&fontAlignY=40&desc=Développeur%20Full-Stack%20|%20Étudiant%20en%20Informatique&descAlignY=60&animation=fadeIn" />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neptune2k21&layout=compact&theme=transparent&langs_count=7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neptune2k21&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neptune2k21&theme=transparent"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=%F0%9F%94%A7+Développement+Full-Stack;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Créatif+et+Curieux;%E2%8C%A8%EF%B8%8F+Explorateur+de+Technologies+Modernes;%F0%9F%93%9A+Étudiant+au+BUT+Informatique" alt="Typing SVG" />
+  </a>
 </div>
 
-## 🤝 Connectez-vous avec moi
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mon-portfolio-beryl.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamadoulcisse9236@gmail.com)
+## 🚀 À propos de moi
+- 🎓 Étudiant en 2ème année de **BUT Informatique** à l'IUT Dijon-Nevers  
+- 💻 Spécialisé en **développement Full-Stack**  
+- 🌱 Toujours curieux et motivé à apprendre les **technologies modernes**  
+- 💬 Prêt à discuter de **développement Web**, **programmation** et **innovation technologique**
+
+---
+
+## 🛠️ Compétences Techniques
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mongodb,mysql,docker,git,linux&perline=7" />
+  </a>
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neptune2k21&layout=compact&theme=nord&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neptune2k21&show_icons=true&rank_icon=github&theme=nord&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neptune2k21&theme=nord&hide_border=true"/>
+</div>
+
+---
+
+## 🌟 Projets Sélectionnés
+<div align="center">
+  <a href="https://github.com/neptune2k21/mon-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neptune2k21&repo=mon-portfolio&theme=nord&hide_border=true" />
+  </a>
+  <a href="https://github.com/neptune2k21/tp-7-nextjs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neptune2k21&repo=tp-7-nextjs&theme=nord&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 🤝 Connectez-vous avec moi
+<p align="center">
+  <a href="https://mon-portfolio-beryl.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=vercel&logoColor=88C0D0" />
+  </a>
+  <a href="mailto:mamadoulcisse9236@gmail.com">
+    <img src="https://img.shields.io/badge/Email-88C0D0?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neptune2k21&theme=flat&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  🚀 Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets.
 </p>
 
-## 💡 Bref
-
-- 🔭 Je travaille toujours à améliorer mes compétences
-- 🌱 Passionné par les solutions logicielles innovantes
-- 💬 Posez-moi des questions sur le développement Web, la programmation ou la technologie en général
-- 📫 Le meilleur moyen de me contacter : envoyez un e-mail !
-
-Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes référentiels et à me contacter. 😊
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=2E3440&section=footer" />
