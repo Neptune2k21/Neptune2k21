@@ -19,7 +19,7 @@
 ## 🛠️ Compétences Techniques
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mongodb,mysql,docker,git,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,c#,c++,react,ts,nodejs,express,mongodb,mysql,docker,git,linux&perline=7" />
   </a>
 </div>
 
